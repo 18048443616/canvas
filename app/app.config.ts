@@ -18,7 +18,7 @@ export default defineAppConfig({
     spotify: 'https://open.spotify.com/user/yuvl0zpp3bpx4hne1ag7huten?si=df7ee2777c0c4fc4',
   },
   seo: {
-    title: 'Canvas a Nuxt portfolio template',
+    title: 'demo测试',
     description: 'Canvas is a simple but beautiful portfolio template for designers and developers built with Nuxt and Tailwind CSS. Made with ❤️ by HugoRCD',
     url: 'https://canvas.hrcd.fr',
   },
